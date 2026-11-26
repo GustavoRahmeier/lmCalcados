@@ -1,0 +1,6 @@
+LM CALÇADOS — como usar
+1. Coloque suas fotos em assets/images/ (nomes em js/config.js e index.html).
+   Logo: assets/images/logo-lm.png (fundo preto, original).
+2. Edite js/config.js: WhatsApp, Instagram, endereço, categorias, produtos, novidades, galeria.
+3. Abra index.html no navegador. Para publicar, envie a pasta inteira para a hospedagem.
+Fotos ausentes mostram "Foto em breve" até você adicioná-las.

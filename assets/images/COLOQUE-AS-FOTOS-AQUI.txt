@@ -1,0 +1,17 @@
+Coloque aqui o logo e as fotos da LM Calçados, com estes nomes:
+
+logo-lm.png            (logo original, fundo preto)
+hero-calcados.jpg      (foto principal, em pé)
+interior-loja.jpg
+fachada-loja.jpg
+tenis-feminino-01.jpg
+tenis-masculino-01.jpg
+calcado-infantil-01.jpg
+sapato-casual-01.jpg
+esportivo-01.jpg
+social-01.jpg
+produto-01.jpg ... produto-04.jpg
+novidades-01.jpg ... novidades-03.jpg
+galeria-01.jpg ... galeria-06.jpg
+
+Outros nomes? Ajuste os caminhos em js/config.js e index.html.
