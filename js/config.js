@@ -57,9 +57,9 @@ window.LM_CONFIG = {
   /* Produtos em destaque. "brand" e "price" são opcionais (deixe "" para ocultar). */
   products: [
     {
-      name: "Modelo a cadastrar 1",
-      brand: "",
-      price: "",
+      name: "Modelo da Vans",
+      brand: "Vans",
+      price: "99,99",
       img: "assets/images/produto-01.jpg",
       alt: "Calçado disponível na LM Calçados",
     },
